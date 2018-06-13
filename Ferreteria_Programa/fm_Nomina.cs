@@ -10,11 +10,16 @@ using System.Windows.Forms;
 
 namespace Ferreteria_Programa
 {
-    public partial class Form1 : Form
+    public partial class fm_Nomina : Form
     {
-        public Form1()
+        public fm_Nomina()
         {
             InitializeComponent();
+        }
+
+        private void fm_Nomina_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }
